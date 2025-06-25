@@ -1,6 +1,6 @@
 export class TodoItem {
-    constructor(public task:string, public complete:boolean = false)
+    constructor(public task:string,public complete:boolean = false)
     {
-        //no statements required
+        // no statements required
     }
 }
